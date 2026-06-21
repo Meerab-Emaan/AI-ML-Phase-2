@@ -118,6 +118,4 @@ pip install transformers datasets scikit-learn pandas numpy gradio
 jupyter notebook task5_ticket_tagging.ipynb
 ```
 
----
 
-*Submitted as part of DevelopersHub Corporation AI/ML Engineering Internship — Due: 30th June 2026*
