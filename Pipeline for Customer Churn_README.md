@@ -111,6 +111,4 @@ pip install pandas numpy scikit-learn matplotlib seaborn imbalanced-learn
 jupyter notebook task2_customer_churn.ipynb
 ```
 
----
 
-*Submitted as part of DevelopersHub Corporation AI/ML Engineering Internship — Due: 30th June 2026*
