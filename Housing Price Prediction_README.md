@@ -2,13 +2,9 @@
 
 **DevelopersHub Corporation — AI/ML Engineering Internship**
 
----
-
 ## Objective
 
 Predict housing prices using both structured tabular data and house image features, implementing a multimodal machine learning approach that combines CNN-extracted image features with tabular regression models.
-
----
 
 ## Dataset
 
@@ -18,7 +14,6 @@ Predict housing prices using both structured tabular data and house image featur
 - **Target:** Median house price
 - **Tabular Features:** MedInc, HouseAge, AveRooms, AveBedrms, Population, AveOccup, Latitude, Longitude
 
----
 
 ## Methodology / Approach
 
@@ -57,7 +52,7 @@ Trained and compared 4 regression models on the fused multimodal features:
 - Extracted and visualized top feature importances from Random Forest
 - Saved the trained model and scaler using `pickle`
 
----
+
 
 ## Technologies Used
 
@@ -70,7 +65,7 @@ Trained and compared 4 regression models on the fused multimodal features:
 | Matplotlib / Seaborn | Visualizations |
 | Pickle | Model saving |
 
----
+
 
 ## Key Results & Observations
 
@@ -88,7 +83,7 @@ Trained and compared 4 regression models on the fused multimodal features:
 - Latitude and Longitude also had significant impact (location matters!)
 - Linear models underperformed due to non-linear relationships in data
 
----
+
 
 ## Skills Gained
 
@@ -97,11 +92,11 @@ Trained and compared 4 regression models on the fused multimodal features:
 - Feature fusion combining image features with tabular data
 - Regression modeling and evaluation with MAE and RMSE
 
----
+
 
 ## Repository Structure
 
-```
+
 task3_housing_price/
 ├── task3_housing_price.ipynb       # Main notebook
 ├── housing_model.pkl               # Saved Random Forest model
@@ -112,9 +107,7 @@ task3_housing_price/
 ├── feature_importance.png          # Feature importance chart
 ├── actual_vs_predicted.png         # Actual vs Predicted plot
 ├── README.md                       # This file
-```
 
----
 
 ## How to Run
 
@@ -124,8 +117,6 @@ pip install pandas numpy scikit-learn matplotlib seaborn xgboost torch torchvisi
 
 # Open the notebook
 jupyter notebook task3_housing_price.ipynb
-```
 
----
 
-*Submitted as part of DevelopersHub Corporation AI/ML Engineering Internship — Due: 30th June 2026*
+
