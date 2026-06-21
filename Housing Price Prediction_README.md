@@ -96,7 +96,7 @@ Trained and compared 4 regression models on the fused multimodal features:
 
 ## Repository Structure
 
-
+```
 task3_housing_price/
 ├── task3_housing_price.ipynb       # Main notebook
 ├── housing_model.pkl               # Saved Random Forest model
@@ -107,7 +107,7 @@ task3_housing_price/
 ├── feature_importance.png          # Feature importance chart
 ├── actual_vs_predicted.png         # Actual vs Predicted plot
 ├── README.md                       # This file
-
+```
 
 ## How to Run
 
