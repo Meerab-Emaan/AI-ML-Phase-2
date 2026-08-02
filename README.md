@@ -1,1 +1,1 @@
-# AI-ML-Phase-2
+# AI-ML-Phase-2-Internship
